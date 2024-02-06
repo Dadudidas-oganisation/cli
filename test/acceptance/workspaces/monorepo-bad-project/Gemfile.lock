@@ -3,6 +3,9 @@ GEM
   specs:
     json (2.3.0)
     lynx (0.4.0)
+    rack (3.0.9)
+    rack-protection (1.5.5)
+      rack
 
 PLATFORMS
   ruby
